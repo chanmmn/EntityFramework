@@ -1,0 +1,10 @@
+C:\test\other\ef\ConAppEF\ConAppEF\bin\Debug\ConAppEF.exe.config
+C:\test\other\ef\ConAppEF\ConAppEF\bin\Debug\ConAppEF.exe
+C:\test\other\ef\ConAppEF\ConAppEF\bin\Debug\ConAppEF.pdb
+C:\test\other\ef\ConAppEF\ConAppEF\bin\Debug\EntityFramework.SqlServer.dll
+C:\test\other\ef\ConAppEF\ConAppEF\bin\Debug\EntityFramework.dll
+C:\test\other\ef\ConAppEF\ConAppEF\obj\Debug\ConAppEF.csprojAssemblyReference.cache
+C:\test\other\ef\ConAppEF\ConAppEF\obj\Debug\ConAppEF.csproj.CoreCompileInputs.cache
+C:\test\other\ef\ConAppEF\ConAppEF\obj\Debug\ConAppEF.csproj.CopyComplete
+C:\test\other\ef\ConAppEF\ConAppEF\obj\Debug\ConAppEF.exe
+C:\test\other\ef\ConAppEF\ConAppEF\obj\Debug\ConAppEF.pdb

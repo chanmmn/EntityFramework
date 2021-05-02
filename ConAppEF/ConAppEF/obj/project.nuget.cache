@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EbyydNYnSb3s5nCuyHK+C5ybg+9IdUfrQdi3Mag18oi7HWShoBP1MvKKYDhbJz13TNBpM40/XwbVlX6sQZyiZw==",
+  "success": true,
+  "projectFilePath": "C:\\test\\other\\ef\\ConAppEF\\ConAppEF\\ConAppEF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\entityframework\\6.2.0\\entityframework.6.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
