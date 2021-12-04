@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data.SqlClient;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -13,8 +14,24 @@ namespace ConAppLINQSql
             //Loading();
             Loading1();
             //Loading2(); 
+            //AdoNet();
         }
 
+        public static void AdoNet()
+        {
+
+            //System.Configuration.ConnectionStringSettings connsetting;
+            //connsetting = cf.ConnectionStrings.ConnectionStrings["IPMSConnectionString"];
+
+            string strconn = System.Configuration.ConfigurationManager.ConnectionStrings["SchoolDBAdo"].ConnectionString;
+            string strcmd = "SELECT * FROM Student";
+ 
+            SqlConnection connection = new SqlConnection(strconn);
+            SqlCommand cmd = new SqlCommand(strcmd, connection);
+            connection.Open();
+            SqlDataReader reader = cmd.ExecuteReader();
+        }
+        
         public static void Loading()
         {
 
