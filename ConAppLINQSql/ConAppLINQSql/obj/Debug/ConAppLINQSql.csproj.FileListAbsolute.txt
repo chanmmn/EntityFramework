@@ -1,0 +1,13 @@
+C:\test\database\ConAppLINQSql\ConAppLINQSql\bin\Debug\ConAppLINQSql.exe.config
+C:\test\database\ConAppLINQSql\ConAppLINQSql\bin\Debug\ConAppLINQSql.exe
+C:\test\database\ConAppLINQSql\ConAppLINQSql\bin\Debug\ConAppLINQSql.pdb
+C:\test\database\ConAppLINQSql\ConAppLINQSql\bin\Debug\EntityFramework.dll
+C:\test\database\ConAppLINQSql\ConAppLINQSql\bin\Debug\EntityFramework.SqlServer.dll
+C:\test\database\ConAppLINQSql\ConAppLINQSql\bin\Debug\EntityFramework.xml
+C:\test\database\ConAppLINQSql\ConAppLINQSql\bin\Debug\EntityFramework.SqlServer.xml
+C:\test\database\ConAppLINQSql\ConAppLINQSql\obj\Debug\ConAppLINQSql.csproj.AssemblyReference.cache
+C:\test\database\ConAppLINQSql\ConAppLINQSql\obj\Debug\ConAppLINQSql.csproj.SuggestedBindingRedirects.cache
+C:\test\database\ConAppLINQSql\ConAppLINQSql\obj\Debug\ConAppLINQSql.csproj.CoreCompileInputs.cache
+C:\test\database\ConAppLINQSql\ConAppLINQSql\obj\Debug\ConAppLINQSql.csproj.CopyComplete
+C:\test\database\ConAppLINQSql\ConAppLINQSql\obj\Debug\ConAppLINQSql.exe
+C:\test\database\ConAppLINQSql\ConAppLINQSql\obj\Debug\ConAppLINQSql.pdb
