@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b6c3044e-878b-47fa-9e38-1d59ffbcc1f1": {
+      "ProjectGuid": "b6c3044e-878b-47fa-9e38-1d59ffbcc1f1",
+      "DisplayName": "TestDataGen",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
