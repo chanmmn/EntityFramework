@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rD/y8jUKTqily+BEeWBvMNKVEXMkqbk+wHFG3N4nWgGw6dmby2zIwrOWnmeW2GR2qjWHr0D30LaKg22H3+G0nQ==",
+  "dgSpecHash": "YGE3uulEflgzGELb/e6EX5V20D9Vv4RaaQPe2NugzmmTqdmDxc7SEgIKavY50Oh3VuHkOJ/oyFCA4xfP19VlSA==",
   "success": true,
-  "projectFilePath": "C:\\test\\database\\TestDataGen\\TestDataGen\\TestDataGen.csproj",
+  "projectFilePath": "C:\\git\\EntityFramework\\TestDataGen\\TestDataGen\\TestDataGen.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\chan-mingman\\.nuget\\packages\\faker.net\\1.5.150\\faker.net.1.5.150.nupkg.sha512",
     "C:\\Users\\chan-mingman\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
