@@ -37,3 +37,16 @@ C:\test\EntityFramework\ConAppLinqCount\ConAppLINQSql\obj\Debug\ConAppLINQSql.cs
 C:\test\EntityFramework\ConAppLinqCount\ConAppLINQSql\obj\Debug\ConAppLINQSql.csproj.CopyComplete
 C:\test\EntityFramework\ConAppLinqCount\ConAppLINQSql\obj\Debug\ConAppLINQSql.exe
 C:\test\EntityFramework\ConAppLinqCount\ConAppLINQSql\obj\Debug\ConAppLINQSql.pdb
+C:\git\EntityFramework\ConAppLinqCount\ConAppLINQSql\bin\Debug\ConAppLINQSql.exe.config
+C:\git\EntityFramework\ConAppLinqCount\ConAppLINQSql\bin\Debug\ConAppLINQSql.exe
+C:\git\EntityFramework\ConAppLinqCount\ConAppLINQSql\bin\Debug\ConAppLINQSql.pdb
+C:\git\EntityFramework\ConAppLinqCount\ConAppLINQSql\bin\Debug\EntityFramework.dll
+C:\git\EntityFramework\ConAppLinqCount\ConAppLINQSql\bin\Debug\EntityFramework.SqlServer.dll
+C:\git\EntityFramework\ConAppLinqCount\ConAppLINQSql\bin\Debug\EntityFramework.xml
+C:\git\EntityFramework\ConAppLinqCount\ConAppLINQSql\bin\Debug\EntityFramework.SqlServer.xml
+C:\git\EntityFramework\ConAppLinqCount\ConAppLINQSql\obj\Debug\ConAppLINQSql.csproj.AssemblyReference.cache
+C:\git\EntityFramework\ConAppLinqCount\ConAppLINQSql\obj\Debug\ConAppLINQSql.csproj.SuggestedBindingRedirects.cache
+C:\git\EntityFramework\ConAppLinqCount\ConAppLINQSql\obj\Debug\ConAppLINQSql.csproj.CoreCompileInputs.cache
+C:\git\EntityFramework\ConAppLinqCount\ConAppLINQSql\obj\Debug\ConAppLINQSql.csproj.CopyComplete
+C:\git\EntityFramework\ConAppLinqCount\ConAppLINQSql\obj\Debug\ConAppLINQSql.exe
+C:\git\EntityFramework\ConAppLinqCount\ConAppLINQSql\obj\Debug\ConAppLINQSql.pdb
