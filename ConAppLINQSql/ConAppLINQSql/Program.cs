@@ -12,9 +12,10 @@ namespace ConAppLINQSql
         static void Main(string[] args)
         {
             //Loading();
-            Loading1();
+            //Loading1();
             //Loading2(); 
             //AdoNet();
+            Count1();
         }
 
         public static void AdoNet()
@@ -60,6 +61,17 @@ namespace ConAppLINQSql
                 context.Database.Log = Console.WriteLine;
                 var students = from r in context.Students where (r.StudentID == 1) select r;
                 Console.WriteLine(students.FirstOrDefault().StudentName);
+            }
+        }
+
+        public static void Count1()
+        {
+            using (var context = new SchoolDBEntities())
+            {
+                context.Database.Log = Console.WriteLine;
+                //var students = from r in context.Students where (r.StudentID == 1) select r;
+                int count = context.Standards.Count();
+                //Console.WriteLine(students.FirstOrDefault().StudentName);
             }
         }
     }
