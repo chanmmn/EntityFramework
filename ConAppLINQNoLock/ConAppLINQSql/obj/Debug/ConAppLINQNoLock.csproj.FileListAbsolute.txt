@@ -1,0 +1,13 @@
+C:\test\EntityFramework\ConAppLINQNoLock\ConAppLINQSql\bin\Debug\ConAppLINQSql.exe.config
+C:\test\EntityFramework\ConAppLINQNoLock\ConAppLINQSql\bin\Debug\ConAppLINQSql.exe
+C:\test\EntityFramework\ConAppLINQNoLock\ConAppLINQSql\bin\Debug\ConAppLINQSql.pdb
+C:\test\EntityFramework\ConAppLINQNoLock\ConAppLINQSql\bin\Debug\EntityFramework.dll
+C:\test\EntityFramework\ConAppLINQNoLock\ConAppLINQSql\bin\Debug\EntityFramework.SqlServer.dll
+C:\test\EntityFramework\ConAppLINQNoLock\ConAppLINQSql\bin\Debug\EntityFramework.xml
+C:\test\EntityFramework\ConAppLINQNoLock\ConAppLINQSql\bin\Debug\EntityFramework.SqlServer.xml
+C:\test\EntityFramework\ConAppLINQNoLock\ConAppLINQSql\obj\Debug\ConAppLINQNoLock.csproj.AssemblyReference.cache
+C:\test\EntityFramework\ConAppLINQNoLock\ConAppLINQSql\obj\Debug\ConAppLINQNoLock.csproj.SuggestedBindingRedirects.cache
+C:\test\EntityFramework\ConAppLINQNoLock\ConAppLINQSql\obj\Debug\ConAppLINQNoLock.csproj.CoreCompileInputs.cache
+C:\test\EntityFramework\ConAppLINQNoLock\ConAppLINQSql\obj\Debug\ConAppLINQNoLock.csproj.CopyComplete
+C:\test\EntityFramework\ConAppLINQNoLock\ConAppLINQSql\obj\Debug\ConAppLINQSql.exe
+C:\test\EntityFramework\ConAppLINQNoLock\ConAppLINQSql\obj\Debug\ConAppLINQSql.pdb
