@@ -1,0 +1,13 @@
+C:\test\other\Training\ConsAppEF2022\ConsAppEF2022\bin\Debug\ConsAppEF2022.exe.config
+C:\test\other\Training\ConsAppEF2022\ConsAppEF2022\bin\Debug\ConsAppEF2022.exe
+C:\test\other\Training\ConsAppEF2022\ConsAppEF2022\bin\Debug\ConsAppEF2022.pdb
+C:\test\other\Training\ConsAppEF2022\ConsAppEF2022\bin\Debug\EntityFramework.dll
+C:\test\other\Training\ConsAppEF2022\ConsAppEF2022\bin\Debug\EntityFramework.SqlServer.dll
+C:\test\other\Training\ConsAppEF2022\ConsAppEF2022\bin\Debug\EntityFramework.xml
+C:\test\other\Training\ConsAppEF2022\ConsAppEF2022\bin\Debug\EntityFramework.SqlServer.xml
+C:\test\other\Training\ConsAppEF2022\ConsAppEF2022\obj\Debug\ConsAppEF2022.csproj.AssemblyReference.cache
+C:\test\other\Training\ConsAppEF2022\ConsAppEF2022\obj\Debug\ConsAppEF2022.csproj.SuggestedBindingRedirects.cache
+C:\test\other\Training\ConsAppEF2022\ConsAppEF2022\obj\Debug\ConsAppEF2022.csproj.CoreCompileInputs.cache
+C:\test\other\Training\ConsAppEF2022\ConsAppEF2022\obj\Debug\ConsAppEF2022.csproj.CopyComplete
+C:\test\other\Training\ConsAppEF2022\ConsAppEF2022\obj\Debug\ConsAppEF2022.exe
+C:\test\other\Training\ConsAppEF2022\ConsAppEF2022\obj\Debug\ConsAppEF2022.pdb
