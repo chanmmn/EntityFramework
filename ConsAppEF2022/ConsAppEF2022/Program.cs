@@ -13,51 +13,9 @@ namespace ConsAppEF2022
     {
         static void Main(string[] args)
         {
-            NorthwindEntities1 ctx = new NorthwindEntities1();
-
-            var prodlst = ctx.Products;
-            var ordlst = ctx.Orders;
-            var orderDetail = ctx.Order_Details;
-
             //https://stackoverflow.com/questions/41933985/how-to-join-3-tables-with-linq
+            LINQDist();
 
-            //var result = from d in prodlst
-            //join c in orderDetail on d.ProductID equals c.ProductID
-            //join s in ordlst on c.OrderID equals s.OrderID
-            //select new
-            //{
-            //    //duty = s.Duty.Duty,
-            //    //CatId = s.Company.CompanyName,
-            //    //SewagePlantName = s.SewagePlant.SewagePlantName
-            //    // other assignments
-            //    proname = d.ProductName, 
-            //    productID = d.ProductID,
-            //    orderID = s.OrderID
-            //};
-
-            
-
-            var query = (from d in prodlst
-                         join c in orderDetail on d.ProductID equals c.ProductID
-                         join s in ordlst on c.OrderID equals s.OrderID
-                         group d by new { d.ProductID, d.ProductName, s.OrderID }
-                 into grp
-                         select new
-                         {
-                             grp.Key.ProductID,
-                             grp.Key.ProductName,
-                             grp.Key.OrderID
-                         }).ToList();
-
-            //var grp = result.GroupBy(x => x.proname, x => x.productID);
-            //var dist = result.ToList();
-            
-
-
-            foreach (var item in query) 
-            {
-                Console.WriteLine(item.ProductName);
-            }
 
         }
 
@@ -117,11 +75,36 @@ namespace ConsAppEF2022
                     .Select(std => std.proname)
                     .Distinct().ToList();
 
-            foreach (var item in lst
+            foreach (var item in lst)
             {
                 Console.WriteLine(item);
             }
+        }
 
+        public static void LINQGroup()
+        {
+            NorthwindEntities1 ctx = new NorthwindEntities1();
+
+            var prodlst = ctx.Products;
+            var ordlst = ctx.Orders;
+            var orderDetail = ctx.Order_Details;
+
+            var query = (from d in prodlst
+                         join c in orderDetail on d.ProductID equals c.ProductID
+                         join s in ordlst on c.OrderID equals s.OrderID
+                         group d by new { d.ProductID, d.ProductName, s.OrderID }
+                into grp
+                         select new
+                         {
+                             grp.Key.ProductID,
+                             grp.Key.ProductName,
+                             grp.Key.OrderID
+                         }).ToList();
+
+            foreach (var item in query)
+            {
+                Console.WriteLine(item.ProductName);
+            }
         }
     }
 }

@@ -11,3 +11,16 @@ C:\test\other\Training\ConsAppEF2022\ConsAppEF2022\obj\Debug\ConsAppEF2022.cspro
 C:\test\other\Training\ConsAppEF2022\ConsAppEF2022\obj\Debug\ConsAppEF2022.csproj.CopyComplete
 C:\test\other\Training\ConsAppEF2022\ConsAppEF2022\obj\Debug\ConsAppEF2022.exe
 C:\test\other\Training\ConsAppEF2022\ConsAppEF2022\obj\Debug\ConsAppEF2022.pdb
+C:\git\EntityFramework\ConsAppEF2022\ConsAppEF2022\bin\Debug\ConsAppEF2022.exe.config
+C:\git\EntityFramework\ConsAppEF2022\ConsAppEF2022\bin\Debug\ConsAppEF2022.exe
+C:\git\EntityFramework\ConsAppEF2022\ConsAppEF2022\bin\Debug\ConsAppEF2022.pdb
+C:\git\EntityFramework\ConsAppEF2022\ConsAppEF2022\bin\Debug\EntityFramework.dll
+C:\git\EntityFramework\ConsAppEF2022\ConsAppEF2022\bin\Debug\EntityFramework.SqlServer.dll
+C:\git\EntityFramework\ConsAppEF2022\ConsAppEF2022\bin\Debug\EntityFramework.xml
+C:\git\EntityFramework\ConsAppEF2022\ConsAppEF2022\bin\Debug\EntityFramework.SqlServer.xml
+C:\git\EntityFramework\ConsAppEF2022\ConsAppEF2022\obj\Debug\ConsAppEF2022.csproj.AssemblyReference.cache
+C:\git\EntityFramework\ConsAppEF2022\ConsAppEF2022\obj\Debug\ConsAppEF2022.csproj.SuggestedBindingRedirects.cache
+C:\git\EntityFramework\ConsAppEF2022\ConsAppEF2022\obj\Debug\ConsAppEF2022.csproj.CoreCompileInputs.cache
+C:\git\EntityFramework\ConsAppEF2022\ConsAppEF2022\obj\Debug\ConsAppEF2022.csproj.CopyComplete
+C:\git\EntityFramework\ConsAppEF2022\ConsAppEF2022\obj\Debug\ConsAppEF2022.exe
+C:\git\EntityFramework\ConsAppEF2022\ConsAppEF2022\obj\Debug\ConsAppEF2022.pdb
