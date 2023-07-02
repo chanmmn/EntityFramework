@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConAppEntityFrameworkTemplate", "ConAppEntityFrameworkTemplate\ConAppEntityFrameworkTemplate.csproj", "{F6233037-B574-45C2-A965-C7B1AB5AEFC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6233037-B574-45C2-A965-C7B1AB5AEFC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6233037-B574-45C2-A965-C7B1AB5AEFC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6233037-B574-45C2-A965-C7B1AB5AEFC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6233037-B574-45C2-A965-C7B1AB5AEFC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {838284A5-1242-40FB-99EA-07ADB598440D}
+	EndGlobalSection
+EndGlobal
